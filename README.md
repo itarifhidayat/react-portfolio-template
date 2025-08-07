@@ -1,2 +1,14 @@
-# react-portfolio-template
-A responsive portfolio template built with React and Vite. Perfect for developers and freelancers.
+# 💼 React Portfolio Template
+
+A modern and responsive personal portfolio template built using **React + Vite**.
+
+## 🚀 Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+## 📝 License
+
+MIT License
